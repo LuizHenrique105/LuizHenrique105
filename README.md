@@ -20,7 +20,7 @@
  	<a href="https://www.twitch.tv/luizhenriquedez" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
   <a href = "mailto:luizcostaaraujo105@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    
- 
+ ![Snake animation](https://github.com/luizHenriquedez/LuizHenriquedez/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-![Snake animation](https://github.com/luizHenriquedez/LuizHenriquedez/blob/output/github-contribution-grid-snake.svg)
+
