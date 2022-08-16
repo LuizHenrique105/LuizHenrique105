@@ -1,28 +1,28 @@
 # Luiz Henrique
-<div align="center">
-  <a href="https://github.com/LuizHenrquedez">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizHenriquedez&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizHenriquedez&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+<div class="vercel-analytics">
+  <div class="dark-theme">
+    <p align="center">
+      <a href="https://github.com/LuizHenriquedez#gh-dark-mode-only"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizHenriquedez&show_icons=false&theme=github_dark&include_all_commits=true&count_private=true" /></a>
+      <a href="https://github.com/stephan-lopes#gh-dark-mode-only"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizHenriquedez&layout=compact&langs_count=7&theme=github_dark&hide=javascript,css,html" /></a>
+    </p>
+  </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-
-  
-  
- 
-  
-</div>
 
 ##
 
   
-<div> 
- 
-  <a href="https://instagram.com/luizhenriquedez" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:luizcostaaraujo105@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   
+<div class="badges">
+  <div class="dark-theme">
+    <a href="https://www.linux.org/#gh-dark-mode-only"><img src="https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux" /></a>&nbsp;   
+    <a href="https://git-scm.com/#gh-dark-mode-only"><img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" /></a>&nbsp;
+    <a href="https://www.gnu.org/software/bash/#gh-dark-mode-only"><img src="https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnu-bash" /></a>&nbsp;
+    
+  </div>
 
- 
+  <div class="light-theme">
+    <a href="https://www.linux.org/#gh-light-mode-only"><img src="https://img.shields.io/badge/-Linux-F5F5F5?style=flat&logo=linux" /></a>&nbsp;
+    <a href="https://git-scm.com/#gh-light-mode-only"><img src="https://img.shields.io/badge/-Git-F5F5F5?style=flat&logo=git" /></a>&nbsp;
+    <a href="https://www.gnu.org/software/bash/#gh-light-mode-only"><img src="https://img.shields.io/badge/-Bash-F5F5F5?style=flat&logo=gnu-bash" /></a>&nbsp;
+   
 </div>
 
