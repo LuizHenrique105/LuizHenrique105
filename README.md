@@ -10,7 +10,6 @@
 
 ##
 
-  
 <div class="badges">
   <div class="dark-theme">
     <a href="https://www.linux.org/#gh-dark-mode-only"><img src="https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux" /></a>&nbsp;   
