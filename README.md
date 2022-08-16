@@ -10,8 +10,7 @@
 
   
   
-  
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/884204599228108851/925860203738591263/IMG_20211214_075111_194.webp">
+ 
   
 </div>
 
