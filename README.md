@@ -15,7 +15,7 @@
   <img align="center" alt="Luiz-CS" height="30" width="40" src="https://cdn.discordapp.com/attachments/1024155692338253904/1024158599750107136/counterstrike.svg">
   <img align="center" alt="Luiz-Linux" height="30" width="40" src="https://cdn.discordapp.com/attachments/1024155692338253904/1024159155424079892/linux.svg">
 <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;"
- src="https://cdn.discordapp.com/attachments/1024155692338253904/1024160410062032936/github.svg">    
+ src="https://cdn.discordapp.com/attachments/1024155692338253904/1024182330279071824/5b5d2ac7a9b9f1800a704033bbf774ba.jpg">    
 </div>
 
   
