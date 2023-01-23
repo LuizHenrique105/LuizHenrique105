@@ -1,4 +1,4 @@
-# 📋 About Me:
+
 🕷 I’m currently learning
 
 <!--![](https://github-readme-stats.vercel.app/api?username=LuizHenriquedez&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
